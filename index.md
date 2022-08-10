@@ -1,4 +1,5 @@
-#  ![5077109](https://user-images.githubusercontent.com/93947784/175762832-9b6fbe90-d776-452a-bed3-bb281a77056e.png)     
+#  ![starteknolog com](https://user-images.githubusercontent.com/93947784/183819055-136d1566-d992-47ec-bc43-c3ce1f9ba98c.png)
+       
 
     
 
@@ -7,8 +8,7 @@ You can use the [editor on GitHub](https://github.com/StarTeknolojiSpace/javascr
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown file 
     
     
-# TEKNOLOJİ GELİŞTİRME ARAŞTIRMA    ALANI     
-  "TECHNOLOGY DEVELOPMENT RESEARCH FIELD    "
+#  Sistem Teknolog  
                                
 
 Markdown is a l     ig h tweight and easy-to-use syntax for styling your writing. It includes conventions for                                             
@@ -37,12 +37,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StarTeknolojiSpace/javascript-action/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configu   
 
-  
-
-### Destek veya İletişim
-###  ercetinguler@starteknoloji.space
-### starteknoloji@starteknoloji.space
-### +90 0288 318 33 40       
+         
 ### +90 0507 236 39 28
 ### 34900 TÜRKİYE/KIRKLARELİ/VİZE 
 
